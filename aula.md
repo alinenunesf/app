@@ -22,15 +22,35 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Escopos e variáveis
 
-- Variáveis locais e globais
-- Constantes
+- [x] Variáveis locais e globais
+- [x] Constantes
+- [x] Boolean
 
 ## Tipos de dados
 
-- String (textos): "", '', ``
-- Number: 2, 1.4
-- Functions
+- [x]String (textos): "", '', ``
+- [x]Number: 2, 1.4
 
 ## Operadores
 
-- Operadores de atribuição de valor
+- [x] Operadores de atribuição de valor (=)
+- [x] Operador de concatenação (+)
+
+## Estruturas de dados 
+### Arrays:
+[x] Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- [x] Atribuiçao e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso de prioridades de objetos
+
+** método está dentro do objeto e a function está fora do objeto
+
+### Functions
+
+- [x] Criar
+- [x] Executar
+- [x] Arrow function
+- [x] Named function
