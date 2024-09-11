@@ -41,7 +41,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 ## Estruturas de dados 
 ### Arrays:
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array (métodos = toda funçao que está dentro de um array): push, [find, forEach, filter] = Higher order function(HOF)
+- [x] Métodos de array (métodos = toda funçao que está dentro de um array): push, [find, forEach, filter, map] = Higher order function(HOF)
 
 
 ### Objetos:
